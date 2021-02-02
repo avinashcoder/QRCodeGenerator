@@ -9,6 +9,7 @@ import com.google.zxing.Result;
 
 import me.dm7.barcodescanner.zxing.ZXingScannerView;
 
+
 public class ScannerQRCode extends AppCompatActivity implements ZXingScannerView.ResultHandler {
 
     TextView scannerTextView;
